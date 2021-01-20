@@ -1,2 +1,8 @@
 # GRIP-Task4-Exploratory-Data-Analysis-Terrorism
-Performing the Exploratory Data Analysis on the given dataset the Global Terrorism
+## Performing EDA on Global Terrorism
+
+This is a Simple Exploratory Data Analysis on Global Terrorism.
+
+From a security/defense analyst's perspective we should try to find out the hot zone of terrorism.
+
+Derive all security issues and insights from the Analysis.
